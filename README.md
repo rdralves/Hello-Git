@@ -1,2 +1,4 @@
 # Hello-Git
-Meu git teste senac
+Meu repository git teste senac -  primeiro repository
+
+### Rodrigo Reis - Curso Django - 
